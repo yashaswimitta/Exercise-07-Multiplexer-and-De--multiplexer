@@ -62,8 +62,8 @@ Generate RTL realization and timing diagrams.
 /*
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by:Chevula.Nagadurga
-RegisterNumber: 212221230014
+Developed by:mitta.yashaswi
+RegisterNumber: 212221230062
 ### 4X1 MULTIPLEXER:
 module mux(I0,I1,I2,I3,S0,S1,Y);
 input I0,I1,I2,I3,S0,S1;
